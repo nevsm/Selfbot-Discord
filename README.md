@@ -3,4 +3,4 @@
   <hr>
 </p>
 </div>
-[![js-semistandard-style](https://cdn.rawgit.com/flet/semistandard/master/badge.svg)](https://github.com/Flet/semistandard)
+<a href="https://github.com/Flet/semistandard"><img src="https://cdn.rawgit.com/flet/semistandard/master/badge.svg" alt="js-semistandard-style"></a>
